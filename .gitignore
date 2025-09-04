@@ -1,6 +1,10 @@
 # Claude project files
 CLAUDE.md
 
+# Documentation files (local only)
+README_ORIGINAL.md
+EMBEDDING_ANALYSIS_KR.md
+
 # Python
 __pycache__/
 *.py[cod]
